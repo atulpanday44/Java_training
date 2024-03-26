@@ -1,1 +1,2 @@
-this come what i have done in Java Training with coding Blocks
+Did this coding problems while doing java training with coding blocks
+
